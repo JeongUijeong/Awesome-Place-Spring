@@ -1,4 +1,12 @@
 # Awesome-Place-Spring
+##  맛집 추천 웹 서비스(Recommending restaurant web service) : BackEnd (Spring)
+
+#### Description
+  > 22.08.20 ~ 
+  
+#### 👨‍💻 Member
+  > 정의정
+  
 ### 개요
   > 서울열린데이터광장에서 제공하는 공공데이터를 가공, 활용하여 소비자가 선택한 음식점에 대한 정보를 보다 쉽게 제공받을 수 있는 서비스
   > 기존에 개발했던 AwesomePlace 서비스 백엔드 파트를 Spring으로 구현
