@@ -2,7 +2,7 @@
 ##  맛집 추천 웹 서비스(Recommending restaurant web service) : BackEnd (Spring)
 
 #### Description
-  > 22.08.20 ~ 
+  > 22.09.01 ~ 
   
 #### 👨‍💻 Member
   > 정의정
